@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+https://www.youtube.com/watch?v=0W6i5LYKCSI&t=1865s: 33 min completed
+
+1.React router dom
+2.redux
+3.synchronous api call in redux
+4.async await
+5.flex-box
+
+Reference https://www.youtube.com/watch?v=0W6i5LYKCSI&t=1865s
